@@ -1,0 +1,32 @@
+:root{
+    --olive_palette: #1C77C3;
+    --salmon_palette: #89023E;
+    --almost_teal_palette: #169873
+  }
+  .box{
+    width: 50px;
+    height: 50px;
+    margin: 5px
+  }
+  
+  .color1{
+    background-color: var(--olive_palette)
+  }
+  
+  .color1_heading{
+    color: var(--olive_palette)
+  }
+  
+  .color2{
+    background-color: var(--salmon_palette)
+  }
+  .color2_heading{
+    color: var(--salmon_palette)
+  }
+  
+  .color3{
+    background-color: var(--almost_teal_palette)
+  }
+  .color3_heading{
+    color: var(--almost_teal_palette)
+  }
